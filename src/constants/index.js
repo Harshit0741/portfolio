@@ -119,25 +119,12 @@ const experiences = [
     company_name: "Refease",
     icon: reaf,
     iconBg: "#383E56",
-    date: "May 2023 - Sep 2023",
+    date: "May 2023 - Jan 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Refease",
-    icon: reaf,
-    iconBg: "#383E56",
-    date: "Oct 2023 - Jan 2024",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "📈 Achieved a 30% increase in user numbers by consistently posting daily job opportunities",
+      "🎯 Boosted user engagement by 45% through successful planning and execution of webinars",
+      "🤝 Facilitated cross-team communication and supported referral seekers in achieving their career goals",
+      "🧩 Implemented user feedback loops to refine platform features, leading to higher user satisfaction and retention",
     ],
   },
   {
@@ -145,13 +132,27 @@ const experiences = [
     company_name: "Banao Technologies",
     icon: banao,
     iconBg: "#383E56",
+    date: "Oct 2023 - Jan 2024",
+    points: [
+      "📱 Built cross-platform mobile applications using React Native with clean UI and responsive UX",
+      "🤝 Collaborated with designers, product managers, and developers to deliver high-quality features",
+      "🎨 Implemented responsive designs ensuring consistent experience across devices and platforms",
+      "🧑‍💻 Participated in code reviews and shared constructive feedback to maintain code quality",
+      "🚀 Optimized app performance and usability through continuous improvements and debugging"
+    ],
+  },
+  {
+    title: "MERN Stack Developer",
+    company_name: "Banao Technologies",
+    icon: banao,
+    iconBg: "#383E56",
     date: "May 2024 - Nov 2024",
     points: [
-    
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "💻 Developed and maintained full-stack web applications using React.js, Node.js, Express, and MongoDB",
+      "🤝 Collaborated with cross-functional teams to deliver scalable and user-friendly features",
+      "🎨 Implemented responsive design ensuring cross-device compatibility and modern UX",
+      "🧪 Participated in code reviews, improving team code quality and sharing best practices",
+      "🚀 Optimized performance and handled REST API integration with robust backend logic"
     ],
   },
 ];

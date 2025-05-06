@@ -27,6 +27,7 @@ import h from "./h.png"
 
 import banao from "./company/banao.jpeg";
 import reaf from "./company/reaf.jpeg";
+import reaf1 from "./company/reaf1.png";
 
 
 import news from "./news.png";
@@ -65,4 +66,5 @@ export {
   godown,
   banao,
   reaf,
+  reaf1,
 };

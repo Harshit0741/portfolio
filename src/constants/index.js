@@ -115,7 +115,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
+    title: "Community Intern",
     company_name: "Refease",
     icon: reaf,
     iconBg: "#383E56",

@@ -132,7 +132,7 @@ const experiences = [
     company_name: "Banao Technologies",
     icon: banao,
     iconBg: "#383E56",
-    date: "Oct 2023 - Jan 2024",
+    date: "Apr 2024 - Dec 2024",
     points: [
       "📱 Built cross-platform mobile applications using React Native with clean UI and responsive UX",
       "🤝 Collaborated with designers, product managers, and developers to deliver high-quality features",
@@ -146,7 +146,7 @@ const experiences = [
     company_name: "Banao Technologies",
     icon: banao,
     iconBg: "#383E56",
-    date: "May 2024 - Nov 2024",
+    date: "Dec 2024 - Mar 2025",
     points: [
       "💻 Developed and maintained full-stack web applications using React.js, Node.js, Express, and MongoDB",
       "🤝 Collaborated with cross-functional teams to deliver scalable and user-friendly features",
